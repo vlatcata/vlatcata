@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I got my first job at age 12.
 
-
-![Stats for my profile](https://github-readme-stats.vercel.app/api?username=vlatcata&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<a href="https://github.com/vlatcata/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vlatcata&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/vlatcata/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlatcata&layout=compact&show_icons=true&theme=aura"
+       width="415"
+       height="300"/>
+</a>
