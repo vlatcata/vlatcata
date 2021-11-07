@@ -1,6 +1,6 @@
-### Hi there, I'm Vladi 👋
+<h1 text-align: center>Hi there, I'm Vladi 👋</h1>
 
-Here are some ideas to get you started:
+Student at Software University and a self-teaching Game Developer
 
 - 🔭 I’m currently working on becoming a C# Software Developer.
 - 🌱 I’m currently learning Entity Framework Core.
