@@ -11,4 +11,4 @@ Student at Software University and a self-teaching Game Developer
 - - [Facebook - @vladi.tirgovski](https://www.facebook.com/vladi.tirgovski/)
 - - Email - vladi85264@abv.bg
 - ⚡ Fun fact: I got my first job at age 12.
-- 🖥️ My website: [vlatcata.github.io/my-website/](https://vlatcata.github.io/my-website/)
+- 🖥️ My website: [vlatcata.github.io/my-website/](https://vlatcata.github.io/vladislav-portfolio/)
